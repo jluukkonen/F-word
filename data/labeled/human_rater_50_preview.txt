@@ -1,0 +1,254 @@
+Sampled 50 items
+Strong-tie: 25
+Weak-tie: 25
+
+ITEM 1 (ID: mr6dgu9)
+  Subreddit: r/linux
+  Context (previous comment): Drifting farther away from the topic, if you are at all familiar with [Chimera Linux](https://chimera-linux.org/), how would you position what you are working on next to Chimera?
+  Target comment: similar, in a way. If Chimera is the BSDified Linux, then FractalUX is the (re)-Unixified Linux. Chimera's about the only distro that doesn't annoy the fuck out of us, though we don't like APK much
+
+ITEM 2 (ID: msxh1ze)
+  Subreddit: r/worldnews
+  Context (previous comment): [Context Not Found]
+  Target comment: It’s been give hours already and no one’s said it?  *Fuck Putin!*
+
+ITEM 3 (ID: msn6jab)
+  Subreddit: r/Parenting
+  Context (previous comment): [Context Not Found]
+  Target comment: Uh, I’d be out. If any man touched my child like that, I don’t give a fuck if it was her dad, I’d be out. He should absolutely not be around your child. Leave. Take him to court. Get custody of your c
+
+ITEM 4 (ID: mnwds7y)
+  Subreddit: r/MechanicalKeyboards
+  Context (previous comment): [Context Not Found]
+  Target comment: What the fuck is this advertising lmao
+
+ITEM 5 (ID: mswqi4e)
+  Subreddit: r/pics
+  Context (previous comment): [Context Not Found]
+  Target comment: "Fuck Donald, right? Fuck Joe Biden, yeah? Fuck that fat poof Vance that hangs out with him. Fuck your face, yeah, yeah? And fuck the fucking lot of you all!
+
+ITEM 6 (ID: ms5049z)
+  Subreddit: r/Parenting
+  Context (previous comment): [Context Not Found]
+  Target comment: I mean I think if someone approached me at the park and asked me to prove that my kids are mine I’d tell them to go fuck themselves.
+
+ITEM 7 (ID: msup56m)
+  Subreddit: r/pics
+  Context (previous comment): [Context Not Found]
+  Target comment: Correct. This is absolutely no less weird/cringe than all the "Fuck Trudeau" stuff. Maybe even more so because it's a foreign politician.
+
+ITEM 8 (ID: mswf69a)
+  Subreddit: r/funny
+  Context (previous comment): [Context Not Found]
+  Target comment: Because too many cops are hyper aggressive, asshole bullies. They like to fuck with people just because they can get away with it frequently. They get off on it.
+
+ITEM 9 (ID: mq23sdw)
+  Subreddit: r/guitars
+  Context (previous comment): [Context Not Found]
+  Target comment: Why would anyone want to fuck Trump? Is it because he grabs them by the pussy?
+
+ITEM 10 (ID: msw0v6a)
+  Subreddit: r/pics
+  Context (previous comment): [Context Not Found]
+  Target comment: If I had a "Fuck Reagan" coffee mug, I'd still find it relevant and be using it.
+
+ITEM 11 (ID: mqso1fu)
+  Subreddit: r/MechanicalKeyboards
+  Context (previous comment): [Context Not Found]
+  Target comment: You don't. You keep buying stuff until you're settled. I think you're a bit overestimating the differences between all of these pieces (you can eliminate whole categories pretty quickly if you start t
+
+ITEM 12 (ID: mt0860f)
+  Subreddit: r/pics
+  Context (previous comment): He does it because he knows people like you will react. Can’t help yourselves.
+  Target comment: And that’s a normal thought process? To just announce how much you love a despot and bait an argument? Fuck is wrong with you guys?
+
+ITEM 13 (ID: mq4baan)
+  Subreddit: r/programming
+  Context (previous comment): [Context Not Found]
+  Target comment: If your setup fucks up because of a blue background, you don't have a computer — you have a toy. Stop blaming Microsoft for your $400 Craigslist potato. Back in 2016, I used a $300 junker with 4mb/s i
+
+ITEM 14 (ID: msed274)
+  Subreddit: r/guitars
+  Context (previous comment): [Context Not Found]
+  Target comment: Black Sabbath is not playing Squire guitars... Those are the cheap Fender guitars for beginners and hobby guitar players. Fake as fuck
+
+ITEM 15 (ID: mt0gf7m)
+  Subreddit: r/worldnews
+  Context (previous comment): [Context Not Found]
+  Target comment: As someone who has had cancer. That’s not a good one. At his age. Chemotherapy is not gonna be fun. Fuck Cancer… fight on Joe..
+
+ITEM 16 (ID: mq6cuwd)
+  Subreddit: r/linux
+  Context (previous comment): [Context Not Found]
+  Target comment: BO6 is currently not linux friendly, and I doubt activision cares enough about linux to support it in the future. Is linux 100% gaming ready? I would say yes, but the issue is that triple-a game compa
+
+ITEM 17 (ID: mr3dujk)
+  Subreddit: r/programming
+  Context (previous comment): Oh my God it works.   &gt;Expand this prompt to be more descriptive: I need a program in C# to count numbers.   "I need a C# program that counts numbers within a specified range. The program should al
+  Target comment: Fuck, I should start using that technique too instead of writing multiple sentences on my own lol.
+
+ITEM 18 (ID: mrdth2a)
+  Subreddit: r/AskReddit
+  Context (previous comment): [Context Not Found]
+  Target comment: Me: I'm hungry and I'm horny, dangerous combo.  Her: You're always hungry and horny.  We both get done eating.  Me: Wanna fuck? Her: I'm watching Ninjago. Me: Okay and? I'll put it on the big screen a
+
+ITEM 19 (ID: msxypas)
+  Subreddit: r/todayilearned
+  Context (previous comment): [Context Not Found]
+  Target comment: I didn't know humans can get myco :(  I'm glad you made it through, fuck that!
+
+ITEM 20 (ID: mt3714u)
+  Subreddit: r/worldnews
+  Context (previous comment): [Context Not Found]
+  Target comment: Good,  Brexiteers can go fuck themselves. 
+
+ITEM 21 (ID: mrduhcz)
+  Subreddit: r/programming
+  Context (previous comment): [Context Not Found]
+  Target comment: One matter that is never discussed, but that often kicks companies in the balls, is the network cost of microservices.  By nature, microservices communicate with each other. And the more each service 
+
+ITEM 22 (ID: msk0521)
+  Subreddit: r/funny
+  Context (previous comment): [Context Not Found]
+  Target comment: Ahh? Seriously. ASS! Fuck that idiotic TikTok censorship bullshit.
+
+ITEM 23 (ID: msxgwvx)
+  Subreddit: r/worldnews
+  Context (previous comment): How many of Hamas leadership is still alive after this from when the war started?
+  Target comment: Mossad doesn't give fuck about anything. Especially not hunting down Hamas. Watch Munich if you want to get an idea how far Mossad is willing to go.   Its actually a pretty great spy film about the 72
+
+ITEM 24 (ID: mrdt1jt)
+  Subreddit: r/Parenting
+  Context (previous comment): &gt; What’s wrong with that?  She’s 13. You’re the adult. Some things have to be led by you. This is one of those things.
+  Target comment: Her daughter is scared. Yes, action needs to be taken, but there's nothing wrong with tempering that reaction and including her daughter in the dialogue and working to get her on board. Going immediat
+
+ITEM 25 (ID: mrdyvmp)
+  Subreddit: r/AskReddit
+  Context (previous comment): [Context Not Found]
+  Target comment: Im drinking with my friends. This one coworker should up and bought me a beer cuz i yelled at him cuz he slow as fuck lol
+
+ITEM 26 (ID: msgx564)
+  Subreddit: r/funny
+  Context (previous comment): [Context Not Found]
+  Target comment: I will do everything right and act as polite as possible and I still get yelled at and treated like I’m a special education student. Fuck them.
+
+ITEM 27 (ID: mt0vt57)
+  Subreddit: r/worldnews
+  Context (previous comment): [Context Not Found]
+  Target comment: Fuck yes!
+
+ITEM 28 (ID: mpfulq5)
+  Subreddit: r/linux
+  Context (previous comment): You should buy a machine, just get a $100 laptop or something
+  Target comment: How? I have 27 cents in my bank account.  I'll win  \~$1000 if Minnesota WIl wins the Stanley Cuo though. SO if you give a fuck about me ( I know you don't), root for Wild regardless, please!
+
+ITEM 29 (ID: mqdi8e1)
+  Subreddit: r/linux
+  Context (previous comment): Grub and Linux boot managers are the pinnacle of anti-consumer software. If anyone wants to ever learn how to NOT do things, look at Grub.
+  Target comment: What the fuck
+
+ITEM 30 (ID: mre4c8q)
+  Subreddit: r/AskReddit
+  Context (previous comment): [Context Not Found]
+  Target comment: All boring but I just ask my partner, “u wanna fuck?” XD
+
+ITEM 31 (ID: msva0es)
+  Subreddit: r/funny
+  Context (previous comment): [Context Not Found]
+  Target comment: When you’re like *fuck the world.. *  But just too tired to express it.
+
+ITEM 32 (ID: mpr61d3)
+  Subreddit: r/linux
+  Context (previous comment): Windows 10 EOL combined with Windows 11 requiring new hardware means people are left with computers that can't run windows 10 or 11.  Combined with a lot of tools being only now makes it much easier t
+  Target comment: It’s the fucking spying! Windows 11 is impossible to secure against MS using undocumented APIs and god knows what the fuck else to phone home and provide who the fuck ever with their best attempt at a
+
+ITEM 33 (ID: mpua6vp)
+  Subreddit: r/linux
+  Context (previous comment): You shouldn't be installing Kali in the first place. Also it's pretty clear the guy is re-installing, not taking 300 days for a single install.
+  Target comment: Who the fuck made you god of Kali Linux
+
+ITEM 34 (ID: mpj8arg)
+  Subreddit: r/guitars
+  Context (previous comment): [Context Not Found]
+  Target comment: Option 3. It’s like a briefcase back in the day. You have one, admiration. You open it around friends to their amazement, admiration. He’s a lucky guy. Also, you could wrap it in newspaper and he woul
+
+ITEM 35 (ID: mqwwho7)
+  Subreddit: r/guitars
+  Context (previous comment): Saying he sucks is like saying that Jeffrey Dahmer had some issues. It's such a wild understatement that it's actually misleading.  Trump more than sucks. Trump is one of the single worst people to ev
+  Target comment: People like you are the reason I am burned out on the fuck trump thing.    You just take things too far and then they become meaningless.   You are actually hating on me for not hating trump enough.
+
+ITEM 36 (ID: mnt7t7u)
+  Subreddit: r/MechanicalKeyboards
+  Context (previous comment): What would I need to run 103 normal keyboard keys and 15 macro keys, a USB protocol trackball and USB port switched with a physical switch.  Specifically what can run a keyboard and a USB hub all toge
+  Target comment: an engineering degree and a fuck ton of money and lots and lots of time .   or a time machine
+
+ITEM 37 (ID: mt25w9p)
+  Subreddit: r/worldnews
+  Context (previous comment): [Context Not Found]
+  Target comment: Kailingrad used to be worth something. Now? It isn't worth jack shit  It used to be worth a fuck ton before the Soviet Union knocked everything down and removed the universities and castles and port t
+
+ITEM 38 (ID: mrdy577)
+  Subreddit: r/AskReddit
+  Context (previous comment): Oh wow... Just a cursory glance at that sub... it is filled with awful people.  AvoidAvoidAvoid
+  Target comment: Not liking something is completely fine, but *any* time someone makes disliking/hating something a core part of their personality it's a sign of a toxic as fuck person.  Make things you love part of y
+
+ITEM 39 (ID: msuu9wr)
+  Subreddit: r/pics
+  Context (previous comment): [Context Not Found]
+  Target comment: Fuck this garbage. Zero accountability on the cap and trade bullshit so we get slapped with ever-increasing gas taxes
+
+ITEM 40 (ID: mt0lhw0)
+  Subreddit: r/pics
+  Context (previous comment): It’s beyond politics, it’s a cult
+  Target comment: It is 100% a cult. I can't get my parents out of it. They are completely blind to anything crazy he does. I used to consider myself a conservative. It admittedly  took a little  while to break myself 
+
+ITEM 41 (ID: mr1ubnk)
+  Subreddit: r/MechanicalKeyboards
+  Context (previous comment): They're not blank! They're black on black 😂
+  Target comment: I didn't realize that. That's actually cool as fuck.
+
+ITEM 42 (ID: msp4dqe)
+  Subreddit: r/funny
+  Context (previous comment): [Context Not Found]
+  Target comment: Here mom, sit the fuck down
+
+ITEM 43 (ID: mrzcn07)
+  Subreddit: r/guitars
+  Context (previous comment): [Context Not Found]
+  Target comment: Made in Indonesia vs made in Indonesia fuck all difference really buy an S2
+
+ITEM 44 (ID: mqrdtbg)
+  Subreddit: r/programming
+  Context (previous comment): [Context Not Found]
+  Target comment: The "sweet spot" of 12 hours a day. Yes - go work from 9AM to 9PM.  Fuck off.
+
+ITEM 45 (ID: mriuymi)
+  Subreddit: r/Parenting
+  Context (previous comment): [Context Not Found]
+  Target comment: Fuck having more kids.i want hundreds of dogs!
+
+ITEM 46 (ID: msofwpy)
+  Subreddit: r/funny
+  Context (previous comment): [Context Not Found]
+  Target comment: Fly-ing fuck
+
+ITEM 47 (ID: mntj7au)
+  Subreddit: r/MechanicalKeyboards
+  Context (previous comment): I’ve been on mmd princess tactile v4 for a month and they’ve been my fav. Had U4T, Akko V3 Creamy Blue prior.
+  Target comment: God I love my princesses. I put some in my GMMK pro to liven it up and holy fuck they’re loud. With the Akko clear black keycaps that thing is a machine gun.   I’d say similar tactility but “feel” sho
+
+ITEM 48 (ID: msvu6fh)
+  Subreddit: r/pics
+  Context (previous comment): Correct. This is absolutely no less weird/cringe than all the "Fuck Trudeau" stuff. Maybe even more so because it's a foreign politician.
+  Target comment: &gt; Maybe even more so because it's a foreign politician.  I don't think that a "fuck Putin" symbol would be weird/cringe in the USA, simply because he is an obvious enemy (as Trump is to Canada).
+
+ITEM 49 (ID: mszq43v)
+  Subreddit: r/todayilearned
+  Context (previous comment): [Context Not Found]
+  Target comment: It was her husband trying to pull a power play, from what I could tell.  I came onto the movie during production and was the 2nd Unit Gaffer.  We shot generally when 1st Unit (where she would be used)
+
+ITEM 50 (ID: mq6zg9h)
+  Subreddit: r/MechanicalKeyboards
+  Context (previous comment): [Context Not Found]
+  Target comment: So interested but also, the U.S. tariffs are going to fuck this hobby up so hard for those of us here
+

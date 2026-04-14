@@ -1,0 +1,14 @@
+Create a survey form for a linguistics study titled "Pragmatic Function of Swear Words in Online Communities".
+
+DESCRIPTION: "You will read 50 Reddit comment exchanges and classify the communicative function of the word 'fuck' (or its variants) in each target comment. For each item you see the subreddit, a previous comment for context, and the target comment. Choose the label that best describes the INTENT behind the swear word. Takes ~15 minutes. No right or wrong answers."
+
+For each row in the attached file @form_items_50, create one required multiple-choice question. Format each question as:
+
+"[subreddit] — Context: [previous_comment] — Comment: [target_comment]"
+
+The answer options for EVERY question must be exactly these 5 choices:
+- Aggression (to attack, insult, or dismiss someone)
+- Bonding (to build rapport or signal group belonging)
+- Emphasis (used as an intensifier, similar to 'very')
+- Frustration (emotional outburst about a situation, not a person)
+- Ambiguous (context insufficient to determine function)
