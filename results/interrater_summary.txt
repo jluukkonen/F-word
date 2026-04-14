@@ -1,4 +1,0 @@
-INTER-RATER RELIABILITY: Human vs. ChatGPT
-Overlapping samples: 93
-Overall Agreement: 45/93 (48.4%)
-Cohen's Kappa: 0.317 (Fair agreement)
