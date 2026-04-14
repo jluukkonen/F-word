@@ -30,6 +30,3 @@ The study evaluates Inter-Rater Reliability (IRR) between human annotators, a fi
    python src/build_report.py
    ```
    *Execution outputs will automatically populate the `results/` directory.*
-
-## Reference
-If you utilise this dataset or methodology, please reference the associated AFinLA 2026 symposium manuscript.
